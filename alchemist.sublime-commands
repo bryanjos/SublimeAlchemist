@@ -1,0 +1,7 @@
+[
+  { "caption": "Alchemist: Start", "command": "alchemist_start" },
+  { "caption": "Alchemist: Stop", "command": "alchemist_stop" },
+  { "caption": "Alchemist: Mix", "command": "alchemist_mix"},
+  { "caption": "Alchemist: Mix Test", "command": "alchemist_mix_test"},
+  { "caption": "Alchemist: Mix Compile", "command": "alchemist_mix_compile"}
+]
